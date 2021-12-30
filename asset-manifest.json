@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/quizzical_app/static/css/main.6746842f.chunk.css",
+    "main.js": "/quizzical_app/static/js/main.5df5b0d2.chunk.js",
+    "main.js.map": "/quizzical_app/static/js/main.5df5b0d2.chunk.js.map",
+    "runtime-main.js": "/quizzical_app/static/js/runtime-main.56a189c5.js",
+    "runtime-main.js.map": "/quizzical_app/static/js/runtime-main.56a189c5.js.map",
+    "static/js/2.c495a400.chunk.js": "/quizzical_app/static/js/2.c495a400.chunk.js",
+    "static/js/2.c495a400.chunk.js.map": "/quizzical_app/static/js/2.c495a400.chunk.js.map",
+    "static/js/3.bf2d3ec8.chunk.js": "/quizzical_app/static/js/3.bf2d3ec8.chunk.js",
+    "static/js/3.bf2d3ec8.chunk.js.map": "/quizzical_app/static/js/3.bf2d3ec8.chunk.js.map",
+    "index.html": "/quizzical_app/index.html",
+    "static/css/main.6746842f.chunk.css.map": "/quizzical_app/static/css/main.6746842f.chunk.css.map",
+    "static/js/2.c495a400.chunk.js.LICENSE.txt": "/quizzical_app/static/js/2.c495a400.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.56a189c5.js",
+    "static/js/2.c495a400.chunk.js",
+    "static/css/main.6746842f.chunk.css",
+    "static/js/main.5df5b0d2.chunk.js"
+  ]
+}
